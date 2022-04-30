@@ -1,4 +1,4 @@
-# Digital-Zoetrope-
+# Digital Zoetrope
 Code and Design files for my Digital Zoetrope.
 
 The Digital Zoetrope 'Zoe' has 15 @Pimoroni Badgers and I planning to spin Zoe at about 12.5 frames per minute (RPM).
